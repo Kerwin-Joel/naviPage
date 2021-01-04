@@ -1,0 +1,5 @@
+{
+    "scripts": {
+      "build": "esbuild ./assets/js/main.js --bundle --outfile=out.js"
+    }
+  }
